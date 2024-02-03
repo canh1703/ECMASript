@@ -1,3 +1,3 @@
-let string = 'Helo World!';
+let string = "Helo World!"
 console.log(string);
 //Hiện tại đang có 2 và em sẽ sửa bằng lệnh
